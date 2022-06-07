@@ -1,2 +1,2 @@
-# Jenkine-Pipeline
+# Jenkine-Declarative-Pipeline
 Jenkine-Pipeline
